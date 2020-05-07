@@ -1,0 +1,247 @@
+continent_code,who_region_code,admin0_code,admin0_name,admin0_sovrn,who_status,lat,lon,flag_url,population,admin1_code_type,admin1_entity_name,admin2_code_type,admin2_entity_name
+"NA",AMRO,AW,Aruba,Netherlands,Other,12.51668736,-69.97713313,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,112309,NA,NA,NA,NA
+AS,EMRO,AF,Afghanistan,Afghanistan,Member state,33.83890116,66.02652977,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg,33736494,NA,NA,NA,NA
+AF,AFRO,AO,Angola,Angola,Member state,-12.29575318,17.54379621,https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg,27859303,NA,NA,NA,NA
+"NA",AMRO,AI,Anguilla,United Kingdom of Great Britain and Northern Ireland,Other,18.22423294,-63.05795609,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,14731,NA,NA,NA,NA
+EU,EURO,AL,Albania,Albania,Member state,41.14595803,20.06917817,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg,2923354,NA,NA,NA,NA
+EU,EURO,AD,Andorra,Andorra,Member state,42.54858297,1.57568833,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg,78013,NA,NA,NA,NA
+AS,EMRO,AE,United Arab Emirates,United Arab Emirates,Member state,23.91267254,54.33219878,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg,9154306,NA,NA,NA,NA
+SA,AMRO,AR,Argentina,Argentina,Member state,-35.37667253,-65.16748474,https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg,43417764,NA,NA,NA,NA
+AS,EURO,AM,Armenia,Armenia,Member state,40.28641688,44.94793424,https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg,2916955,NA,NA,NA,NA
+OC,WPRO,AS,American Samoa,United States of America,Other,-14.28592649,-170.4018397,NA,NA,NA,NA,NA,NA
+"NA",AMRO,AG,Antigua and Barbuda,Antigua and Barbuda,Member state,17.280137,-61.79112759,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg,99926,NA,NA,NA,NA
+OC,WPRO,AU,Australia,Australia,Member state,-25.73326023,134.490976,https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg,23799546,NA,NA,NA,NA
+EU,EURO,AT,Austria,Austria,Member state,47.59295768,14.13998831,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg,8678663,NA,NA,NA,NA
+AS,EURO,AZ,Azerbaijan,Azerbaijan,Member state,40.2922195,47.53232681,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg,9617494,NA,NA,NA,NA
+AF,AFRO,BI,Burundi,Burundi,Member state,-3.35629712,29.88682139,https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg,10199267,NA,NA,NA,NA
+EU,EURO,BE,Belgium,Belgium,Member state,50.64295176,4.66434841,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg,11287931,NA,NA,NA,NA
+AF,AFRO,BJ,Benin,Benin,Member state,9.64764997,2.34326271,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg,10575962,NA,NA,NA,NA
+SA,AMRO,BQ,"Bonaire, Sint Eustatius and Saba",Netherlands,Other,12.8019026,-67.68370917,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,25157,NA,NA,NA,NA
+AF,AFRO,BF,Burkina Faso,Burkina Faso,Member state,12.27793715,-1.73983521,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg,18110616,NA,NA,NA,NA
+AS,SEARO,BD,Bangladesh,Bangladesh,Member state,23.8330072,90.27092576,https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg,161200888,NA,NA,NA,NA
+EU,EURO,BG,Bulgaria,Bulgaria,Member state,42.76032141,25.23475756,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg,7177392,NA,NA,NA,NA
+AS,EMRO,BH,Bahrain,Bahrain,Member state,26.01947392,50.56248915,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg,1371858,NA,NA,NA,NA
+"NA",AMRO,BS,Bahamas,Bahamas,Member state,24.1666829,-76.5004385,https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg,386838,NA,NA,NA,NA
+EU,EURO,BA,Bosnia and Herzegovina,Bosnia and Herzegovina,Member state,44.16643966,17.78861095,https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg,3535955,NA,NA,NA,NA
+"NA",AMRO,BL,Saint Barthelemy,France,Other,17.9057614,-62.83353803,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,9793,NA,NA,NA,NA
+EU,EURO,BY,Belarus,Belarus,Member state,53.54021951,28.04696448,https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg,9485773,NA,NA,NA,NA
+"NA",AMRO,BZ,Belize,Belize,Member state,17.21852829,-88.68278545,https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg,359287,NA,NA,NA,NA
+"NA",AMRO,BM,Bermuda,United Kingdom of Great Britain and Northern Ireland,Other,32.31349498,-64.75637722,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,71176,NA,NA,NA,NA
+SA,AMRO,BO,Bolivia (Plurinational State of),Bolivia (Plurinational State of),Member state,-16.71510989,-64.67054847,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg,10724703,NA,NA,NA,NA
+SA,AMRO,BR,Brazil,Brazil,Member state,-10.7722828,-53.08875436,https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg,205962112,NA,NA,NA,NA
+"NA",AMRO,BB,Barbados,Barbados,Member state,13.17879902,-59.56212696,https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg,284208,NA,NA,NA,NA
+AS,WPRO,BN,Brunei Darussalam,Brunei Darussalam,Member state,4.52147838,114.7613209,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg,417546,NA,NA,NA,NA
+AS,SEARO,BT,Bhutan,Bhutan,Member state,27.41546082,90.42943275,https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg,787387,NA,NA,NA,NA
+AF,AFRO,BW,Botswana,Botswana,Member state,-22.18204202,23.8150775,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg,2209195,NA,NA,NA,NA
+AF,AFRO,CF,Central African Republic,Central African Republic,Member state,6.57145342,20.48278081,https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg,4546103,NA,NA,NA,NA
+"NA",AMRO,CA,Canada,Canada,Member state,61.3930667,-98.26094698,https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg,35949706,NA,NA,NA,NA
+AS,WPRO,CC,Cocos (Keeling) Islands,Australia,Other,-12.17188243,96.85559708,NA,NA,NA,NA,NA,NA
+EU,EURO,CH,Switzerland,Switzerland,Member state,46.8025828,8.23458738,https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg,8319774,NA,NA,NA,NA
+SA,AMRO,CL,Chile,Chile,Member state,-37.86811922,-71.38009385,https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg,17762683,NA,NA,NA,NA
+AS,WPRO,CN,China,China,Member state,36.51870146,103.8934731,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg,1404875191,NA,NA,NA,NA
+AF,AFRO,CM,Cameroon,Cameroon,Member state,5.68580436,12.7432535,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg,22834529,NA,NA,NA,NA
+OC,WPRO,CK,Cook Islands,New Zealand,Member state,-21.211,-159.76,https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg,17449,NA,NA,NA,NA
+SA,AMRO,CO,Colombia,Colombia,Member state,3.90037401,-73.07576335,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg,48228704,NA,NA,NA,NA
+AF,AFRO,KM,Comoros,Comoros,Member state,-11.89337767,43.67623201,https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg,777435,NA,NA,NA,NA
+AF,AFRO,CV,Cabo Verde,Cabo Verde,Member state,14.928,-23.545,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg,532908,NA,NA,NA,NA
+"NA",AMRO,CR,Costa Rica,Costa Rica,Member state,9.97052135,-84.18903867,https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg,4807843,NA,NA,NA,NA
+"NA",AMRO,CU,Cuba,Cuba,Member state,21.62142096,-79.0381998,https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg,11461434,NA,NA,NA,NA
+SA,AMRO,CW,Curacao,Netherlands,Other,12.18779752,-68.96749055,https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Curaçao.svg,158665,NA,NA,NA,NA
+AS,WPRO,CX,Christmas Island,Australia,Other,-10.44411526,105.7036983,NA,NA,NA,NA,NA,NA
+"NA",AMRO,KY,Cayman Islands,United Kingdom of Great Britain and Northern Ireland,Other,19.431525,-80.82909683,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,68076,NA,NA,NA,NA
+AS,EURO,CY,Cyprus,Cyprus,Member state,35.04299175,33.21863708,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg,1160983,NA,NA,NA,NA
+EU,EURO,CZ,Czech Republic,Czech Republic,Member state,49.74303614,15.33833995,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg,10603764,NA,NA,NA,NA
+EU,EURO,DE,Germany,Germany,Member state,51.11015396,10.39232967,https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg,81707799,NA,NA,NA,NA
+AF,EMRO,DJ,Djibouti,Djibouti,Member state,11.7498128,42.5779403,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg,927414,NA,NA,NA,NA
+"NA",AMRO,DM,Dominica,Dominica,Member state,15.43661252,-61.35549385,https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg,73161,NA,NA,NA,NA
+EU,EURO,DK,Denmark,Denmark,Member state,55.9623328,10.05082082,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg,5688695,NA,NA,NA,NA
+"NA",AMRO,DO,Dominican Republic,Dominican Republic,Member state,18.89309386,-70.48543447,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg,10528399,NA,NA,NA,NA
+AF,AFRO,DZ,Algeria,Algeria,Member state,28.16335741,2.63236595,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg,39871531,NA,NA,NA,NA
+SA,AMRO,EC,Ecuador,Ecuador,Member state,-1.42528337,-78.78096177,https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg,16144357,NA,NA,NA,NA
+AF,EMRO,EG,Egypt,Egypt,Member state,26.5565646,29.78210708,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg,93778176,NA,NA,NA,NA
+AF,AFRO,ER,Eritrea,Eritrea,Member state,15.35884102,38.85292555,https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg,4846986,NA,NA,NA,NA
+AF,AFRO,EH,Western Sahara,Western Sahara,Other,24.66157494,-13.13672471,NA,NA,NA,NA,NA,NA
+EU,EURO,ES,Spain,Spain,Member state,40.22749596,-3.64931118,https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg,46397663,NA,NA,NA,NA
+EU,EURO,EE,Estonia,Estonia,Member state,58.67400787,25.5257709,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg,1315330,NA,NA,NA,NA
+AF,AFRO,ET,Ethiopia,Ethiopia,Member state,8.62613927,39.61601894,https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg,99873027,NA,NA,NA,NA
+EU,EURO,FI,Finland,Finland,Member state,64.49433129,26.2588423,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg,5481968,NA,NA,NA,NA
+OC,WPRO,FJ,Fiji,Fiji,Member state,-17.855,178.182,https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg,892144,NA,NA,NA,NA
+SA,AMRO,FK,Falkland Islands (Malvinas),United Kingdom of Great Britain and Northern Ireland,Other,-51.7398244,-59.37234604,NA,NA,NA,NA,NA,NA
+EU,EURO,FR,France,France,Member state,46.56487403,2.55042646,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,64457199,NA,NA,NA,NA
+EU,EURO,FO,Faroe Islands,Denmark,Other,62.050314,-6.86363602,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg,51783,NA,NA,NA,NA
+OC,WPRO,FM,Micronesia (Federated States of),Micronesia (Federated States of),Member state,7.09583265,154.8281847,https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg,104427,NA,NA,NA,NA
+AF,AFRO,GA,Gabon,Gabon,Member state,-0.59067797,11.79715762,https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg,1930178,NA,NA,NA,NA
+EU,EURO,GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,Member state,54.1601792,-2.90049476,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,65397090,NA,NA,NA,NA
+AS,EURO,GE,Georgia,Georgia,Member state,42.17632583,43.51757115,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg,3951517,NA,NA,NA,NA
+EU,EURO,GG,Guernsey,United Kingdom of Great Britain and Northern Ireland,Other,49.4590463,-2.57582282,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,63026,NA,NA,NA,NA
+AF,AFRO,GH,Ghana,Ghana,Member state,7.95964382,-1.20704619,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg,27582820,NA,NA,NA,NA
+EU,EURO,GI,Gibraltar,United Kingdom of Great Britain and Northern Ireland,Other,36.1381932,-5.34488893,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,32194,NA,NA,NA,NA
+AF,AFRO,GN,Guinea,Guinea,Member state,10.43854094,-10.94182542,https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg,12091534,NA,NA,NA,NA
+"NA",AMRO,GP,Guadeloupe,France,Other,16.20126357,-61.53039242,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,395700,NA,NA,NA,NA
+AF,AFRO,GM,Gambia,Gambia,Member state,13.4529444,-15.3856196,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg,1977584,NA,NA,NA,NA
+AF,AFRO,GW,Guinea-Bissau,Guinea-Bissau,Member state,12.0161983,-14.98748401,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg,1770528,NA,NA,NA,NA
+AF,AFRO,GQ,Equatorial Guinea,Equatorial Guinea,Member state,1.7101686,10.33849628,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg,1175380,NA,NA,NA,NA
+EU,EURO,GR,Greece,Greece,Member state,39.04452874,22.9879848,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg,11217803,NA,NA,NA,NA
+"NA",AMRO,GD,Grenada,Grenada,Member state,12.16251573,-61.65003909,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg,106827,NA,NA,NA,NA
+"NA",EURO,GL,Greenland,Denmark,Other,74.71895353,-41.39096667,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg,55992,NA,NA,NA,NA
+"NA",AMRO,GT,Guatemala,Guatemala,Member state,15.7023026,-90.3569493,https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg,16252425,NA,NA,NA,NA
+SA,AMRO,GF,French Guiana,France,Other,3.9243882,-53.24126696,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,290691,NA,NA,NA,NA
+OC,WPRO,GU,Guam,United States of America,Associate member,13.44403107,144.7758568,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,162742,NA,NA,NA,NA
+SA,AMRO,GY,Guyana,Guyana,Member state,4.79237827,-58.97416349,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg,768514,NA,NA,NA,NA
+"NA",AMRO,HN,Honduras,Honduras,Member state,14.81934813,-86.61965899,https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg,8960823,NA,NA,NA,NA
+EU,EURO,HR,Croatia,Croatia,Member state,45.04363696,16.40934249,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg,4236014,NA,NA,NA,NA
+"NA",AMRO,HT,Haiti,Haiti,Member state,18.93900136,-72.68358014,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg,10711071,NA,NA,NA,NA
+EU,EURO,HU,Hungary,Hungary,Member state,47.16647906,19.41342813,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg,9783926,NA,NA,NA,NA
+AS,SEARO,ID,Indonesia,Indonesia,Member state,-2.22903453,117.3110169,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg,258162114,NA,NA,NA,NA
+EU,EURO,IM,Isle of Man,United Kingdom of Great Britain and Northern Ireland,Other,54.2288333,-4.52652992,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,83314,NA,NA,NA,NA
+AS,SEARO,IN,India,India,Member state,22.88132057,79.6188183,https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg,1309053984,NA,NA,NA,NA
+EU,EURO,IE,Ireland,Ireland,Member state,53.17708682,-8.1515763,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg,4700108,NA,NA,NA,NA
+AS,EMRO,IR,Iran (Islamic Republic of),Iran (Islamic Republic of),Member state,32.56479959,54.30141376,https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg,79360492,NA,NA,NA,NA
+AS,EMRO,IQ,Iraq,Iraq,Member state,33.04800654,43.77224552,https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg,36115650,NA,NA,NA,NA
+EU,EURO,IS,Iceland,Iceland,Member state,64.99764998,-18.6057026,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg,330237,NA,NA,NA,NA
+AS,EURO,IL,Israel,Israel,Member state,31.35805652,34.96598271,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg,8064554,NA,NA,NA,NA
+EU,EURO,IT,Italy,Italy,Member state,42.79119167,12.07165559,https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg,59504212,NA,NA,NA,NA
+"NA",AMRO,JM,Jamaica,Jamaica,Member state,18.15133064,-77.31975081,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg,2871925,NA,NA,NA,NA
+EU,EURO,JE,Jersey,United Kingdom of Great Britain and Northern Ireland,Other,49.21949816,-2.12891773,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,106800,NA,NA,NA,NA
+AS,EMRO,JO,Jordan,Jordan,Member state,31.25338179,36.78694114,https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg,9159307,NA,NA,NA,NA
+AS,WPRO,JP,Japan,Japan,Member state,37.53982621,137.9738703,https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg,127974959,NA,NA,NA,NA
+AS,EURO,KZ,Kazakhstan,Kazakhstan,Member state,48.1600427,67.30130018,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg,17749640,NA,NA,NA,NA
+AF,AFRO,KE,Kenya,Kenya,Member state,0.52978018,37.85786442,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg,47236267,NA,NA,NA,NA
+AS,EURO,KG,Kyrgyzstan,Kyrgyzstan,Member state,41.46490717,74.555493,https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg,5865403,NA,NA,NA,NA
+AS,WPRO,KH,Cambodia,Cambodia,Member state,12.71402994,104.9212396,https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg,15517626,NA,NA,NA,NA
+OC,WPRO,KI,Kiribati,Kiribati,Member state,1.368,173.156,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg,112410,NA,NA,NA,NA
+"NA",AMRO,KN,Saint Kitts and Nevis,Saint Kitts and Nevis,Member state,17.26585656,-62.69617397,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg,54288,NA,NA,NA,NA
+AS,WPRO,KR,Republic of Korea,Republic of Korea,Member state,36.36770228,127.8293439,https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg,50593658,NA,NA,NA,NA
+AS,EMRO,KW,Kuwait,Kuwait,Member state,29.34250906,47.59355128,https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg,3935788,NA,NA,NA,NA
+AS,WPRO,LA,Lao People's Democratic Republic,Lao People's Democratic Republic,Member state,18.50245057,103.7634056,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg,6663974,NA,NA,NA,NA
+AS,EMRO,LB,Lebanon,Lebanon,Member state,33.92039304,35.88806123,https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg,5851488,NA,NA,NA,NA
+AF,AFRO,LR,Liberia,Liberia,Member state,6.44811846,-9.30784656,https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg,4499620,NA,NA,NA,NA
+AF,EMRO,LY,Libya,Libya,Member state,27.04404524,18.02318627,https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg,6234949,NA,NA,NA,NA
+"NA",AMRO,LC,Saint Lucia,Saint Lucia,Member state,13.89811518,-60.96869084,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg,177207,NA,NA,NA,NA
+EU,EURO,LI,Liechtenstein,Liechtenstein,Not a Member State of WHO,47.15259548,9.55526493,https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg,38557,NA,NA,NA,NA
+AS,SEARO,LK,Sri Lanka,Sri Lanka,Member state,7.61236243,80.70426262,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg,20714040,NA,NA,NA,NA
+AF,AFRO,LS,Lesotho,Lesotho,Member state,-29.58100795,28.24284034,https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg,2174653,NA,NA,NA,NA
+EU,EURO,LT,Lithuania,Lithuania,Member state,55.33585013,23.89683075,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg,2931915,NA,NA,NA,NA
+EU,EURO,LU,Luxembourg,Luxembourg,Member state,49.77096396,6.08754416,https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg,566741,NA,NA,NA,NA
+EU,EURO,LV,Latvia,Latvia,Member state,56.85766939,24.92915332,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg,1992667,NA,NA,NA,NA
+"NA",AMRO,MF,Saint Martin,France,Other,18.0876049,-63.06457229,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,77741,NA,NA,NA,NA
+AF,EMRO,MA,Morocco,Morocco,Member state,31.88355697,-6.31780295,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg,34803319,NA,NA,NA,NA
+EU,EURO,MC,Monaco,Monaco,Member state,43.75034615,7.41201715,https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg,38306,NA,NA,NA,NA
+EU,EURO,MD,Republic of Moldova,Republic of Moldova,Member state,47.19332561,28.47434317,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg,4065977,NA,NA,NA,NA
+AF,AFRO,MG,Madagascar,Madagascar,Member state,-19.37352133,46.70599248,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg,24234080,NA,NA,NA,NA
+AS,SEARO,MV,Maldives,Maldives,Member state,3.37481932,73.25178478,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg,418406,NA,NA,NA,NA
+"NA",AMRO,MX,Mexico,Mexico,Member state,23.95092841,-102.5349909,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg,125890950,NA,NA,NA,NA
+OC,WPRO,MH,Marshall Islands,Marshall Islands,Member state,8.42167996,168.6103942,https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg,52994,NA,NA,NA,NA
+EU,EURO,MK,North Macedonia,North Macedonia,Member state,41.59922075,21.6991485,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg,2079313,NA,NA,NA,NA
+AF,AFRO,ML,Mali,Mali,Member state,17.35036933,-3.52433672,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg,17467913,NA,NA,NA,NA
+EU,EURO,MT,Malta,Malta,Member state,35.92036651,14.40457358,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg,427617,NA,NA,NA,NA
+AS,SEARO,MM,Myanmar,Myanmar,Member state,21.14009536,96.50868206,https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg,52403678,NA,NA,NA,NA
+EU,EURO,ME,Montenegro,Montenegro,Member state,42.79659203,19.26458919,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg,628177,NA,NA,NA,NA
+AS,WPRO,MN,Mongolia,Mongolia,Member state,46.83520872,103.0830311,https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg,2976876,NA,NA,NA,NA
+OC,WPRO,MP,Northern Mariana Islands (Commonwealth of the),United States of America,Other,16.25570464,145.58783210000001,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,53883,NA,NA,NA,NA
+AF,AFRO,MZ,Mozambique,Mozambique,Member state,-17.26019392,35.55226053,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg,28010695,NA,NA,NA,NA
+AF,AFRO,MR,Mauritania,Mauritania,Member state,20.25990361,-10.33226041,https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg,4182338,NA,NA,NA,NA
+"NA",AMRO,MS,Montserrat,United Kingdom of Great Britain and Northern Ireland,Other,16.73575969,-62.18692145,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,4649,NA,NA,NA,NA
+"NA",AMRO,MQ,Martinique,France,Other,14.65277419,-61.02147382,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,376480,NA,NA,NA,NA
+AF,AFRO,MU,Mauritius,Mauritius,Member state,-20.1700678,57.868476,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg,1259457,NA,NA,NA,NA
+AF,AFRO,MW,Malawi,Malawi,Member state,-13.21510424,34.30698504,https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg,17573606,NA,NA,NA,NA
+AS,WPRO,MY,Malaysia,Malaysia,Member state,3.79382045,109.7115743,https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg,30723151,NA,NA,NA,NA
+AF,AFRO,YT,Mayotte,France,Other,-12.81835006,45.13926174,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,279471,NA,NA,NA,NA
+AF,AFRO,"NA",Namibia,Namibia,Member state,-22.13329329,17.21845028,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg,2425555,NA,NA,NA,NA
+OC,WPRO,NC,New Caledonia,France,Other,-21.29461419,165.6718498,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,271407,NA,NA,NA,NA
+AF,AFRO,NE,Niger,Niger,Member state,17.42632282,9.39765754,https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg,19896963,NA,NA,NA,NA
+OC,WPRO,NF,Norfolk Island,Australia,Other,-29.03719883,167.9528661,NA,NA,NA,NA,NA,NA
+AF,AFRO,NG,Nigeria,Nigeria,Member state,9.59360399,8.10527726,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg,181181747,NA,NA,NA,NA
+"NA",AMRO,NI,Nicaragua,Nicaragua,Member state,12.84006976,-85.03375025,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg,6082031,NA,NA,NA,NA
+OC,WPRO,NU,Niue,New Zealand,Member state,-19.05190358,-169.8685868,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg,1628,NA,NA,NA,NA
+EU,EURO,NL,Netherlands,Netherlands,Member state,52.2535763,5.60099776,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,16938492,NA,NA,NA,NA
+EU,EURO,NO,Norway,Norway,Member state,64.44784887,14.07508911,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg,5199827,NA,NA,NA,NA
+AS,SEARO,NP,Nepal,Nepal,Member state,28.25300785,83.93851707,https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg,28656287,NA,NA,NA,NA
+OC,WPRO,NR,Nauru,Nauru,Member state,-0.52207331,166.9300834,https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg,11260,NA,NA,NA,NA
+OC,WPRO,NZ,New Zealand,New Zealand,Member state,-41.83710689,171.6039713,https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg,4614527,NA,NA,NA,NA
+AS,EMRO,OM,Oman,Oman,Member state,20.60208368,56.10981747,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg,4199811,NA,NA,NA,NA
+AS,EMRO,PK,Pakistan,Pakistan,Member state,29.96678898,69.38581881,https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg,189380506,NA,NA,NA,NA
+"NA",AMRO,PA,Panama,Panama,Member state,8.50544318,-80.10906884,https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg,3969247,NA,NA,NA,NA
+OC,WPRO,PN,Pitcairn Islands,United Kingdom of Great Britain and Northern Ireland,Other,-24.505797,-128.44279,NA,NA,NA,NA,NA,NA
+SA,AMRO,PE,Peru,Peru,Member state,-9.16377133,-74.37540668,https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg,31376678,NA,NA,NA,NA
+AS,WPRO,PH,Philippines,Philippines,Member state,11.74740203,122.8736074,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg,101716364,NA,NA,NA,NA
+OC,WPRO,PW,Palau,Palau,Member state,7.3881454,134.4839158,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg,21287,NA,NA,NA,NA
+EU,EURO,PL,Poland,Poland,Member state,52.12472405,19.40092017,https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg,38265221,NA,NA,NA,NA
+"NA",AMRO,PR,Puerto Rico,United States of America,Associate member,18.22093074,-66.46612748,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,3193694,NA,NA,NA,NA
+AS,SEARO,KP,Democratic People's Republic of Korea,Democratic People's Republic of Korea,Member state,40.14284868,127.1805338,https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg,25243916,NA,NA,NA,NA
+EU,EURO,PT,Portugal,Portugal,Member state,39.60269511,-8.46736074,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg,10418463,NA,NA,NA,NA
+SA,AMRO,PY,Paraguay,Paraguay,Member state,-23.23612887,-58.39095178,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg,6639121,NA,NA,NA,NA
+AS,EMRO,PS,"occupied Palestinian territory, including east Jerusalem",West Bank and Gaza Strip,Other,31.913951140000002,35.20376878,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg,NA,NA,NA,NA,NA
+OC,WPRO,PF,French Polynesia,France,Other,-17.532,-149.568,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,275918,NA,NA,NA,NA
+AS,EMRO,QA,Qatar,Qatar,Member state,25.31580997,51.19120083,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg,2481540,NA,NA,NA,NA
+AF,AFRO,RE,Réunion,France,Other,-21.12162946,55.53821274,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg,859959,NA,NA,NA,NA
+EU,EURO,RO,Romania,Romania,Member state,45.84360558,24.96990758,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg,19876620,NA,NA,NA,NA
+EU,EURO,RU,Russian Federation,Russian Federation,Member state,61.9882456,96.68944215,https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg,143887997,NA,NA,NA,NA
+AF,AFRO,RW,Rwanda,Rwanda,Member state,-1.99796798,29.91720553,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg,11629546,NA,NA,NA,NA
+AS,EMRO,SA,Saudi Arabia,Saudi Arabia,Member state,24.08088192,44.57044965,https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg,31557130,NA,NA,NA,NA
+AF,EMRO,SD,Sudan,Sudan,Member state,16.04883821,30.00438135,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg,38647801,NA,NA,NA,NA
+AF,AFRO,SN,Senegal,Senegal,Member state,14.36697954,-14.46817708,https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg,14976991,NA,NA,NA,NA
+AS,WPRO,SG,Singapore,Singapore,Member state,1.35118038,103.8076536,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg,5535251,NA,NA,NA,NA
+AF,AFRO,SH,Saint Helena,United Kingdom of Great Britain and Northern Ireland,Other,-25.07251316,-10.20560378,NA,NA,NA,NA,NA,NA
+EU,EURO,SJ,Svalbard and Jan Mayen Islands,Norway,Other,78.82964197,18.37439734,NA,NA,NA,NA,NA,NA
+OC,WPRO,SB,Solomon Islands,Solomon Islands,Member state,-8.90427701,159.6127556,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg,587476,NA,NA,NA,NA
+AF,AFRO,SL,Sierra Leone,Sierra Leone,Member state,8.56034092,-11.7921029,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg,7237028,NA,NA,NA,NA
+"NA",AMRO,SV,El Salvador,El Salvador,Member state,13.73614532,-88.86560674,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg,6312479,NA,NA,NA,NA
+EU,EURO,SM,San Marino,San Marino,Member state,43.94191474,12.46035762,https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg,32959,NA,NA,NA,NA
+AF,EMRO,SO,Somalia,Somalia,Member state,6.0637135,45.86255927,https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg,13908126,NA,NA,NA,NA
+"NA",AMRO,PM,Saint Pierre and Miquelon,France,Other,46.92888261,-56.30527649,NA,NA,NA,NA,NA,NA
+EU,EURO,RS,Serbia,Serbia,Member state,44.03387222,20.81133086,https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg,8851272,NA,NA,NA,NA
+SA,AFRO,SS,South Sudan,South Sudan,Member state,7.27961187,30.34067655,https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg,11882127,NA,NA,NA,NA
+AF,AFRO,ST,Sao Tome and Principe,Sao Tome and Principe,Member state,0.45825363,6.73729084,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg,195549,NA,NA,NA,NA
+SA,AMRO,SR,Suriname,Suriname,Member state,4.12671321,-55.91158124,https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg,553204,NA,NA,NA,NA
+EU,EURO,SK,Slovakia,Slovakia,Member state,48.7073588,19.49145028,https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg,5439321,NA,NA,NA,NA
+EU,EURO,SI,Slovenia,Slovenia,Member state,46.12355026,14.82707444,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg,2074787,NA,NA,NA,NA
+EU,EURO,SE,Sweden,Sweden,Member state,62.78774226,16.74115526,https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg,9763562,NA,NA,NA,NA
+AF,AFRO,SZ,Eswatini,Eswatini,Member state,-26.56211674,31.4971888,https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg,1319014,NA,NA,NA,NA
+"NA",AMRO,SX,Sint Maarten,Netherlands,Other,18.04683524,-63.06194338,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,41486,NA,NA,NA,NA
+AF,AFRO,SC,Seychelles,Seychelles,Member state,-6.39906405,52.23005901,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg,93739,NA,NA,NA,NA
+AS,EMRO,SY,Syrian Arab Republic,Syrian Arab Republic,Member state,35.01307272,38.50584744,https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg,18734986,NA,NA,NA,NA
+"NA",AMRO,TC,Turks and Caicos Islands,United Kingdom of Great Britain and Northern Ireland,Other,21.80869292,-71.88207917,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,31458,NA,NA,NA,NA
+AF,AFRO,TD,Chad,Chad,Member state,15.3611457,18.66460339,https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg,14009414,NA,NA,NA,NA
+AF,AFRO,TG,Togo,Togo,Member state,8.53491037,0.97584596,https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg,7416806,NA,NA,NA,NA
+AS,SEARO,TH,Thailand,Thailand,Member state,15.11989876,101.0149078,https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg,68657593,NA,NA,NA,NA
+AS,EURO,TJ,Tajikistan,Tajikistan,Member state,38.52781756,71.04218063,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg,8548645,NA,NA,NA,NA
+OC,WPRO,TK,Tokelau,New Zealand,Associate member,-9.08691012,-171.8321965,NA,NA,NA,NA,NA,NA
+AS,EURO,TM,Turkmenistan,Turkmenistan,Member state,39.12221813,59.3835262,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg,5565279,NA,NA,NA,NA
+AS,SEARO,TL,Timor-Leste,Timor-Leste,Member state,-8.82052123,125.8609961,https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg,1240984,NA,NA,NA,NA
+OC,WPRO,TO,Tonga,Tonga,Member state,-21.14,-175.22,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg,106368,NA,NA,NA,NA
+"NA",AMRO,TT,Trinidad and Tobago,Trinidad and Tobago,Member state,10.46836429,-61.25263722,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg,1360090,NA,NA,NA,NA
+AF,EMRO,TN,Tunisia,Tunisia,Member state,34.11124917,9.56156142,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg,11273661,NA,NA,NA,NA
+EU,EURO,TR,Turkey,Turkey,Member state,39.06061856,35.17921811,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg,78271475,NA,NA,NA,NA
+OC,WPRO,TV,Tuvalu,Tuvalu,Member state,-7.58736,178.2011102,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg,11000,NA,NA,NA,NA
+AF,AFRO,TZ,United Republic of Tanzania,United Republic of Tanzania,Member state,-6.27019905,34.82340201,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg,53879951,NA,NA,NA,NA
+AF,AFRO,UG,Uganda,Uganda,Member state,1.28008463,32.38622999,https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg,40144867,NA,NA,NA,NA
+EU,EURO,UA,Ukraine,Ukraine,Member state,49.01609429,31.38784552,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg,44657714,NA,NA,NA,NA
+SA,AMRO,UY,Uruguay,Uruguay,Member state,-32.79956992,-56.01217362,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg,3431555,NA,NA,NA,NA
+"NA",AMRO,US,United States of America,United States of America,Member state,45.6954816,-112.4935645,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,319929164,FIPS,State,FIPS,County
+AS,EURO,UZ,Uzbekistan,Uzbekistan,Member state,41.75041661,63.16950578,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg,30976017,NA,NA,NA,NA
+EU,EURO,VA,Holy See,Holy See,Not a Member State of WHO,41.89324195,12.48571114,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg,1000,NA,NA,NA,NA
+"NA",AMRO,VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Member state,13.20205468,-61.20753009,https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg,109460,NA,NA,NA,NA
+SA,AMRO,VE,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),Member state,7.12493711,-66.16621515,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg,31155134,NA,NA,NA,NA
+"NA",AMRO,VG,British Virgin Islands,United Kingdom of Great Britain and Northern Ireland,Other,18.50995704,-64.48189201,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,31758,NA,NA,NA,NA
+"NA",AMRO,VI,United States Virgin Islands,United States of America,Other,17.9678899,-64.78692721,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,106405,NA,NA,NA,NA
+AS,WPRO,VN,Viet Nam,Viet Nam,Member state,16.65160342,106.3040353,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg,93571569,NA,NA,NA,NA
+OC,WPRO,VU,Vanuatu,Vanuatu,Member state,-16.20215409,167.7055728,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg,264603,NA,NA,NA,NA
+OC,WPRO,WF,Wallis and Futuna,France,Other,-13.78426596,-177.1439709,NA,NA,NA,NA,NA,NA
+OC,WPRO,WS,Samoa,Samoa,Member state,-13.832,-171.767,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg,193748,NA,NA,NA,NA
+AS,EMRO,YE,Yemen,Yemen,Member state,15.8386485,47.58223641,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg,26916203,NA,NA,NA,NA
+AF,AFRO,ZA,South Africa,South Africa,Member state,-28.99321352,25.08871199,https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg,55291226,NA,NA,NA,NA
+AF,AFRO,ZM,Zambia,Zambia,Member state,-13.45307543,27.79788004,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg,16100579,NA,NA,NA,NA
+AF,AFRO,ZW,Zimbabwe,Zimbabwe,Member state,-19.00000577,29.87175983,https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg,15777449,NA,NA,NA,NA
+AF,AFRO,CD,Democratic Republic of the Congo,Democratic Republic of the Congo,Member state,-2.87622576,23.65431545,https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg,76196615,NA,NA,NA,NA
+AF,AFRO,CG,Congo,Congo,Member state,-0.84006603,15.22427459,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg,4995644,NA,NA,NA,NA
+OC,WPRO,PG,Papua New Guinea,Papua New Guinea,Member state,-6.47589335,145.2536876,https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg,7919826,NA,NA,NA,NA
+"NA",WPRO,JT,Johnston Atoll,United States of America,Other,16.72861477,-169.5338036,NA,NA,NA,NA,NA,NA
+OC,WPRO,UM,Midway Islands,United States of America,Other,28.20495865,-177.3664246,NA,NA,NA,NA,NA,NA
+"NA",WPRO,WK,Wake Island,United States of America,Other,19.30151617,166.638191,NA,NA,NA,NA,NA,NA
+AF,AFRO,CI,Côte d’ Ivoire,Cote d Ivoire,Member state,7.6317253,-5.55549992,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg,23108477,NA,NA,NA,NA
+AS,WPRO,HK,Hong Kong SAR,China,NA,NA,NA,https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg,7482500,NA,NA,NA,NA
+AS,WPRO,MO,Macau SAR,China,NA,NA,NA,https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg,667400,NA,NA,NA,NA
+AS,WPRO,TW,Taiwan SAR,China,NA,NA,NA,https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg,23780452,NA,NA,NA,NA
+EU,EURO,XK,Kosovo,Kosovo,NA,NA,NA,https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg,1810463,NA,NA,NA,NA
+NA,Conveyance,International Conveyance,International Conveyance,NA,NA,NA,NA,"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDMyIDI4IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zOnNlcmlmPSJodHRwOi8vd3d3LnNlcmlmLmNvbS8iIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MjsiPgogICAgPHBhdGggZD0iTTI4LjI5NywyNC4yOTdDMjguNjg4LDIzLjkwNiAyOS4zMTMsMjMuOTA2IDI5LjcwMywyNC4yOTdMMzEuNzAzLDI2LjI5N0wzMC4yOTcsMjcuNzAzTDI5LDI2LjQwNkwyNy43MDMsMjcuNzAzQzI3LjUxNiwyNy45MDYgMjcuMjUsMjggMjcsMjhDMjYuNzUsMjggMjYuNDg0LDI3LjkwNiAyNi4yOTcsMjcuNzAzTDI1LDI2LjQwNkwyMy43MDMsMjcuNzAzQzIzLjMxMiwyOC4wOTQgMjIuNjg3LDI4LjA5NCAyMi4yOTcsMjcuNzAzTDIxLDI2LjQwNkwxOS43MDMsMjcuNzAzQzE5LjMxMiwyOC4wOTQgMTguNjg3LDI4LjA5NCAxOC4yOTcsMjcuNzAzTDE3LDI2LjQwNkwxNS43MDMsMjcuNzAzQzE1LjMxMiwyOC4wOTQgMTQuNjg3LDI4LjA5NCAxNC4yOTcsMjcuNzAzTDEzLDI2LjQwNkwxMS43MDMsMjcuNzAzQzExLjMxMiwyOC4wOTQgMTAuNjg3LDI4LjA5NCAxMC4yOTcsMjcuNzAzTDksMjYuNDA2TDcuNzAzLDI3LjcwM0M3LjMxMiwyOC4wOTQgNi42ODcsMjguMDk0IDYuMjk3LDI3LjcwM0w1LDI2LjQwNkwzLjcwMywyNy43MDNDMy4zMTIsMjguMDk0IDIuNjg3LDI4LjA5NCAyLjI5NywyNy43MDNMMC4yOTcsMjUuNzAzTDEuNzAzLDI0LjI5N0wzLDI1LjU5NEw0LjI5NywyNC4yOTdDNC42ODgsMjMuOTA2IDUuMzEzLDIzLjkwNiA1LjcwMywyNC4yOTdMNywyNS41OTRMOC4yOTcsMjQuMjk3QzguNjg4LDIzLjkwNiA5LjMxMywyMy45MDYgOS43MDMsMjQuMjk3TDExLDI1LjU5NEwxMi4yOTcsMjQuMjk3QzEyLjY4OCwyMy45MDYgMTMuMzEzLDIzLjkwNiAxMy43MDMsMjQuMjk3TDE1LDI1LjU5NEwxNi4yOTcsMjQuMjk3QzE2LjY4OCwyMy45MDYgMTcuMzEzLDIzLjkwNiAxNy43MDMsMjQuMjk3TDE5LDI1LjU5NEwyMC4yOTcsMjQuMjk3QzIwLjY4OCwyMy45MDYgMjEuMzEzLDIzLjkwNiAyMS43MDMsMjQuMjk3TDIzLDI1LjU5NEwyNC4yOTcsMjQuMjk3QzI0LjY4OCwyMy45MDYgMjUuMzEzLDIzLjkwNiAyNS43MDMsMjQuMjk3TDI3LDI1LjU5NEwyOC4yOTcsMjQuMjk3Wk0zLjcwMywyMy43MDNDMy4zMTIsMjQuMDk0IDIuNjg3LDI0LjA5NCAyLjI5NywyMy43MDNMMC4yOTcsMjEuNzAzTDEuNzAzLDIwLjI5N0wzLDIxLjU3OEw0LjI5NywyMC4yOTdDNC42ODgsMTkuOTA2IDUuMzEzLDE5LjkwNiA1LjcwMywyMC4yOTdMNywyMS41NzhMOCwyMC41NzhMOCwxNkw0LjcxOSwxMS4wOTRDNC4zNiwxMC41NDcgNC42MSw5Ljc5NyA1LjIzNSw5LjU3OEw4LjAwMSw4LjY3Mkw4LjAwMSw0TDEwLjAwMSw0TDEwLjAwMSwyTDE0LjAwMSwyTDE0LjAwMSwwTDE4LjAwMSwwTDE4LjAwMSwyTDIyLjAwMSwyTDIyLjAwMSw0TDI0LjAwMSw0TDI0LjAwMSw4LjY3MkwyNi43NjcsOS41NzhDMjcuMzkyLDkuNzk3IDI3LjY0MiwxMC41NDcgMjcuMjgzLDExLjA5NEwyNC4wMDIsMTZMMjQuMDAyLDIwLjU3OEwyNC4yOTksMjAuMjk3QzI0LjY5LDE5LjkwNiAyNS4zMTUsMTkuOTA2IDI1LjcwNSwyMC4yOTdMMjcuMDAyLDIxLjU3OEwyOC4yOTksMjAuMjk3QzI4LjY5LDE5LjkwNiAyOS4zMTUsMTkuOTA2IDI5LjcwNSwyMC4yOTdMMzEuNzA1LDIyLjI5N0wzMC4yOTksMjMuNzAzTDI5LjAwMiwyMi40MDZMMjcuNzA1LDIzLjcwM0MyNy41MTgsMjMuOTA2IDI3LjI1MiwyNCAyNy4wMDIsMjRDMjYuNzUyLDI0IDI2LjQ4NiwyMy45MDYgMjYuMjk5LDIzLjcwM0wyNS4wMDIsMjIuNDA2TDIzLjcwNSwyMy43MDNDMjMuMzE0LDI0LjA5NCAyMi42ODksMjQuMDk0IDIyLjI5OSwyMy43MDNMMjEuMDAyLDIyLjQwNkwxOS43MDUsMjMuNzAzQzE5LjMxNCwyNC4wOTQgMTguNjg5LDI0LjA5NCAxOC4yOTksMjMuNzAzTDE3LjAwMiwyMi40MDZMMTUuNzA1LDIzLjcwM0MxNS4zMTQsMjQuMDk0IDE0LjY4OSwyNC4wOTQgMTQuMjk5LDIzLjcwM0wxMy4wMDIsMjIuNDA2TDExLjcwNSwyMy43MDNDMTEuMzE0LDI0LjA5NCAxMC42ODksMjQuMDk0IDEwLjI5OSwyMy43MDNMOS4wMDIsMjIuNDA2TDcuNzA1LDIzLjcwM0M3LjMxNCwyNC4wOTQgNi42ODksMjQuMDk0IDYuMjk5LDIzLjcwM0w1LjAwMiwyMi40MDZMMy43MDMsMjMuNzAzWk0xMCw2TDEwLDhMMTYsNkwyMiw4TDIyLDZMMjAsNkwyMCw0TDEyLDRMMTIsNkwxMCw2WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=",3000,NA,NA,NA,NA
