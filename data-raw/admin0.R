@@ -12,7 +12,7 @@ admin0 <- suppressMessages(
 
 extra <- tibble(
   who_region_code = c(rep("WPRO", 3), "EURO", "Conveyance"),
-  admin0_code = c("HK", "MO", "TW", "XK", "International Conveyance"),
+  admin0_code = c("HK", "MO", "TW", "XK", "ZZ"),
   admin0_name = c("Hong Kong SAR", "Macau SAR", "Taiwan SAR", "Kosovo", "International Conveyance"),
   admin0_sovrn = c(rep("China", 3), "Kosovo", NA),
   lon = NA,
