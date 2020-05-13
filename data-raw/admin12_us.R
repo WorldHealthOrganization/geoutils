@@ -39,8 +39,9 @@ ct_meta <- meta %>%
 us_admin2 <- ct_jhu %>%
   mutate(admin0_code = "US") %>%
   rename(admin2_code = fips_county, admin1_code = fips_state,
-    admin2_name = county) %>%
-  select(admin0_code, admin1_code, admin2_code, admin2_name, lat, lon) %>%
+    admin1_name = state, admin2_name = county) %>%
+  select(admin0_code, admin1_code, admin1_name,
+    admin2_code, admin2_name, lat, lon) %>%
   left_join(ct_meta)
 
 st_jhu <- ct_jhu %>%
@@ -53,14 +54,23 @@ setdiff(st_nyt$fips_state, st_jhu$fips_state)
 st_meta <- meta %>%
   filter(Country_Region == "US" & nchar(FIPS) <= 2) %>%
   mutate(admin1_code = substr(sprintf("%02d", FIPS), 1, 2)) %>%
-  select(admin1_code, Lat, Long_, Population) %>%
-  rename(population = Population, lat = Lat, lon = Long_)
+  select(admin1_code, Province_State, Lat, Long_, Population) %>%
+  rename(admin1_name = Province_State, population = Population,
+    lat = Lat, lon = Long_)
 
 us_admin1 <- st_jhu %>%
   mutate(admin0_code = "US") %>%
   rename(admin1_code = fips_state, admin1_name = state) %>%
   select(admin0_code, admin1_code, admin1_name) %>%
   left_join(st_meta)
+
+imgs <- readr::read_csv("https://raw.githubusercontent.com/hafen/us-locator-maps/master/admin1.csv")
+imgs$map_url <- paste0("https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/", imgs$img_url)
+us_admin1 <- left_join(us_admin1, select(imgs, admin1_code, map_url))
+
+imgs <- readr::read_csv("https://raw.githubusercontent.com/hafen/us-locator-maps/master/admin2.csv")
+imgs$map_url <- paste0("https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin2/US/", imgs$img_url)
+us_admin2 <- left_join(us_admin2, select(imgs, admin2_code, map_url))
 
 admin1 <- us_admin1
 admin2 <- us_admin2
@@ -70,3 +80,9 @@ usethis::use_data(admin2, overwrite = TRUE)
 
 readr::write_csv(admin1, "csv/admin1.csv")
 readr::write_csv(admin2, "csv/admin2.csv")
+
+# Should these be added? (region, FIPS)
+# Puerto Rico, 72
+# U.S. Virgin Islands, 78
+# Guam, 66
+# Northern Mariana Islands, 69

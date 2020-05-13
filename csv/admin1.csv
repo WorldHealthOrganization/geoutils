@@ -1,52 +1,52 @@
-admin0_code,admin1_code,admin1_name,lat,lon,population
-US,01,Alabama,32.3182,-86.9023,4688897
-US,02,Alaska,61.3707,-152.4044,597749
-US,04,Arizona,33.7298,-111.4312,7278717
-US,05,Arkansas,34.9697,-92.3731,2589027
-US,06,California,36.1162,-119.6816,39208620
-US,08,Colorado,39.0598,-105.3111,5666813
-US,09,Connecticut,41.5978,-72.7554,3565287
-US,10,Delaware,39.3185,-75.5071,973764
-US,11,District of Columbia,38.8974,-77.0268,705749
-US,12,Florida,27.7663,-81.6868,21232606
-US,13,Georgia,33.0406,-83.6431,10139393
-US,15,Hawaii,21.0943,-157.4983,1415786
-US,16,Idaho,44.2405,-114.4788,1610497
-US,17,Illinois,40.3495,-88.9861,11735653
-US,18,Indiana,39.8494,-86.2583,6543994
-US,19,Iowa,42.0115,-93.2105,2620713
-US,20,Kansas,38.5266,-96.7265,2438488
-US,21,Kentucky,37.6681,-84.6701,3423303
-US,22,Louisiana,31.1695,-91.8678,4597266
-US,23,Maine,44.6939,-69.3819,1174006
-US,24,Maryland,39.0639,-76.8021,5943335
-US,25,Massachusetts,42.2302,-71.5301,6863772
-US,26,Michigan,43.3266,-84.5361,7967259
-US,27,Minnesota,45.6945,-93.9002,4946446
-US,28,Mississippi,32.7416,-89.6787,2895206
-US,29,Missouri,38.4561,-92.2884,5859456
-US,30,Montana,46.9219,-110.4544,865987
-US,31,Nebraska,41.1254,-98.2681,1525272
-US,32,Nevada,38.3135,-117.0554,3016697
-US,33,New Hampshire,43.4525,-71.5639,1328148
-US,34,New Jersey,40.2989,-74.521,8882190
-US,35,New Mexico,34.8405,-106.2485,1667533
-US,36,New York,42.1657,-74.9481,16861025
-US,37,North Carolina,35.6301,-79.8064,9917875
-US,38,North Dakota,47.5289,-99.784,606418
-US,39,Ohio,40.3888,-82.7649,11173860
-US,40,Oklahoma,35.5653,-96.9289,3657634
-US,41,Oregon,44.572,-122.0709,4007074
-US,42,Pennsylvania,40.5908,-77.2098,12587497
-US,44,Rhode Island,41.6809,-71.5118,1059361
-US,45,South Carolina,33.8569,-80.945,5039975
-US,46,South Dakota,44.2998,-99.4388,735892
-US,47,Tennessee,35.7478,-86.6923,6564929
-US,48,Texas,31.0545,-97.5635,22984561
-US,49,Utah,40.15,-111.8624,2865882
-US,50,Vermont,44.0459,-72.7107,610591
-US,51,Virginia,37.7693,-78.17,7907230
-US,53,Washington,47.4009,-121.4905,7549403
-US,54,West Virginia,38.4912,-80.9545,1322998
-US,55,Wisconsin,44.2685,-89.6165,5174571
-US,56,Wyoming,42.756,-107.3025,497240
+admin0_code,admin1_code,admin1_name,lat,lon,population,map_url
+US,01,Alabama,32.3182,-86.9023,4688897,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/01.png
+US,02,Alaska,61.3707,-152.4044,597749,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/02.png
+US,04,Arizona,33.7298,-111.4312,7278717,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/04.png
+US,05,Arkansas,34.9697,-92.3731,2589027,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/05.png
+US,06,California,36.1162,-119.6816,39208620,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/06.png
+US,08,Colorado,39.0598,-105.3111,5666813,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/08.png
+US,09,Connecticut,41.5978,-72.7554,3565287,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/09.png
+US,10,Delaware,39.3185,-75.5071,973764,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/10.png
+US,11,District of Columbia,38.8974,-77.0268,705749,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/11.png
+US,12,Florida,27.7663,-81.6868,21232606,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/12.png
+US,13,Georgia,33.0406,-83.6431,10139393,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/13.png
+US,15,Hawaii,21.0943,-157.4983,1415786,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/15.png
+US,16,Idaho,44.2405,-114.4788,1610497,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/16.png
+US,17,Illinois,40.3495,-88.9861,11735653,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/17.png
+US,18,Indiana,39.8494,-86.2583,6543994,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/18.png
+US,19,Iowa,42.0115,-93.2105,2620713,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/19.png
+US,20,Kansas,38.5266,-96.7265,2438488,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/20.png
+US,21,Kentucky,37.6681,-84.6701,3423303,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/21.png
+US,22,Louisiana,31.1695,-91.8678,4597266,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/22.png
+US,23,Maine,44.6939,-69.3819,1174006,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/23.png
+US,24,Maryland,39.0639,-76.8021,5943335,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/24.png
+US,25,Massachusetts,42.2302,-71.5301,6863772,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/25.png
+US,26,Michigan,43.3266,-84.5361,7967259,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/26.png
+US,27,Minnesota,45.6945,-93.9002,4946446,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/27.png
+US,28,Mississippi,32.7416,-89.6787,2895206,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/28.png
+US,29,Missouri,38.4561,-92.2884,5859456,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/29.png
+US,30,Montana,46.9219,-110.4544,865987,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/30.png
+US,31,Nebraska,41.1254,-98.2681,1525272,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/31.png
+US,32,Nevada,38.3135,-117.0554,3016697,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/32.png
+US,33,New Hampshire,43.4525,-71.5639,1328148,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/33.png
+US,34,New Jersey,40.2989,-74.521,8882190,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/34.png
+US,35,New Mexico,34.8405,-106.2485,1667533,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/35.png
+US,36,New York,42.1657,-74.9481,16861025,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/36.png
+US,37,North Carolina,35.6301,-79.8064,9917875,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/37.png
+US,38,North Dakota,47.5289,-99.784,606418,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/38.png
+US,39,Ohio,40.3888,-82.7649,11173860,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/39.png
+US,40,Oklahoma,35.5653,-96.9289,3657634,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/40.png
+US,41,Oregon,44.572,-122.0709,4007074,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/41.png
+US,42,Pennsylvania,40.5908,-77.2098,12587497,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/42.png
+US,44,Rhode Island,41.6809,-71.5118,1059361,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/44.png
+US,45,South Carolina,33.8569,-80.945,5039975,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/45.png
+US,46,South Dakota,44.2998,-99.4388,735892,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/46.png
+US,47,Tennessee,35.7478,-86.6923,6564929,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/47.png
+US,48,Texas,31.0545,-97.5635,22984561,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/48.png
+US,49,Utah,40.15,-111.8624,2865882,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/49.png
+US,50,Vermont,44.0459,-72.7107,610591,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/50.png
+US,51,Virginia,37.7693,-78.17,7907230,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/51.png
+US,53,Washington,47.4009,-121.4905,7549403,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/53.png
+US,54,West Virginia,38.4912,-80.9545,1322998,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/54.png
+US,55,Wisconsin,44.2685,-89.6165,5174571,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/55.png
+US,56,Wyoming,42.756,-107.3025,497240,https://raw.githubusercontent.com/hafen/us-locator-maps/master/thumbs/admin1/US/56.png

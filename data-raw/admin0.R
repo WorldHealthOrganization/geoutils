@@ -66,4 +66,3 @@ admin0 <- left_join(admin0, admin012map)
 usethis::use_data(admin0, overwrite = TRUE)
 
 readr::write_csv(admin0, path = "csv/admin0.csv")
-
