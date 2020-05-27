@@ -1,1 +1,6 @@
 ^_ignore$
+^data-raw$
+^csv$
+^LICENSE\.md$
+^\.travis\.yml$
+^\.github$
