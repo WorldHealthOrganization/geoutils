@@ -6,7 +6,7 @@
 
 This repository provides datasets with metadata for geographic entities (continents, WHO regions, countries/territories, etc.) with specified standards for codes and names, used for unifying data reported from multiple sources.
 
-This is available as both an R package, which can be installed and used as shown below, and also as csv files that can be easily used outside of R.
+This is available as both an R package, which can be installed and used as shown below, and also as [csv](https://github.com/covid-open-data/geoutils/tree/master/csv) files that can be easily used outside of R.
 
 ### Design
 
