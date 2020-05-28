@@ -1,8 +1,8 @@
+# geoutils
+
 <!-- badges: start -->
 [![R build status](https://github.com/covid-open-data/geoutils/workflows/R-CMD-check/badge.svg)](https://github.com/covid-open-data/geoutils/actions)
 <!-- badges: end -->
-
-# geoutils
 
 This repository provides datasets with metadata for geographic entities (continents, WHO regions, countries/territories, etc.) with specified standards for codes and names, used for unifying data reported from multiple sources.
 
