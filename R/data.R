@@ -66,6 +66,7 @@
 #' \describe{
 #'   \item{continent_code}{continent code}
 #'   \item{continent_name}{continent name}
+#'   \item{population}{population}
 #'   \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 #' }
 "continents"
@@ -78,6 +79,17 @@
 #' \describe{
 #'   \item{who_region_code}{WHO region code}
 #'   \item{who_region_name}{WHO region name}
+#'   \item{population}{population}
 #'   \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 #' }
 "who_regions"
+
+#' Metadata for Global
+#'
+#' @format A data frame with variables:
+#' \describe{
+#'   \item{global_code}{WHO region code}
+#'   \item{global_name}{WHO region name}
+#'   \item{population}{population}
+#' }
+"global"

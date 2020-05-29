@@ -9,6 +9,7 @@ A data frame with variables:
 \describe{
 \item{who_region_code}{WHO region code}
 \item{who_region_name}{WHO region name}
+\item{population}{population}
 \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 }
 }

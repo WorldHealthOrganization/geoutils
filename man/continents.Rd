@@ -9,6 +9,7 @@ A data frame with variables:
 \describe{
 \item{continent_code}{continent code}
 \item{continent_name}{continent name}
+\item{population}{population}
 \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 }
 }
