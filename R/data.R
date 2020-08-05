@@ -58,7 +58,7 @@
 #' @source Currently only data for US counties is contained in this file. Others to come as needed by applications. US metadata comes from [JHU CSSE](https://github.com/CSSEGISandData/COVID-19).
 "admin2"
 
-# cat(paste(paste0("#'   \\item{", names(continents), "}{}"), collapse = "\n"))
+# cat(paste(paste0("#'   \\item{", names(continent), "}{}"), collapse = "\n"))
 
 #' Metadata for continents
 #'
@@ -69,9 +69,9 @@
 #'   \item{population}{population}
 #'   \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 #' }
-"continents"
+"continent"
 
-# cat(paste(paste0("#'   \\item{", names(who_regions), "}{}"), collapse = "\n"))
+# cat(paste(paste0("#'   \\item{", names(who_region), "}{}"), collapse = "\n"))
 
 #' Metadata for WHO regions
 #'
@@ -82,7 +82,7 @@
 #'   \item{population}{population}
 #'   \item{map_url}{a URL to an image that shows the location of this entity relative to its country/territory}
 #' }
-"who_regions"
+"who_region"
 
 #' Metadata for Global
 #'
